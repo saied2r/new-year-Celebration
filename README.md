@@ -1,3 +1,3 @@
-##This website is build in only `HTML` and `CSS`
+##This website is built in only `HTML` and `CSS`
 
-[visit `new-year-celebration`]()
+Visit: [`new-year-celebration`](https://saied83.github.io/new-year-celebration-website/)
